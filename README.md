@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vincecloutier
 - 👀 I’m interested in finance and basketball
-- 🌱 I’m currently learning tensorflow
+- 🌱 I’m currently learning algorithmic trading
 - 💞️ I’m looking to collaborate on anything cool
 - 📫 Reach me at: vincentcloutier@mail.com
 
